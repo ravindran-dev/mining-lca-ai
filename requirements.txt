@@ -1,0 +1,48 @@
+# ===============================
+# Core Framework
+# ===============================
+Flask==2.3.3             # If using Flask
+Flask-Cors==4.0.0
+Django==4.2.5            # If using Django (choose Flask OR Django, not both)
+djangorestframework==3.14.0
+
+# ===============================
+# Database
+# ===============================
+psycopg2-binary==2.9.7   # PostgreSQL driver
+pymongo==4.5.0           # MongoDB driver
+
+# ===============================
+# Machine Learning / AI
+# ===============================
+scikit-learn==1.3.0
+pandas==2.1.0
+numpy==1.25.2
+scipy==1.11.2
+joblib==1.3.2
+xgboost==1.7.6
+lightgbm==4.0.0
+
+# ===============================
+# Data Visualization / Reporting
+# ===============================
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.16.1
+
+# ===============================
+# Environment & Config
+# ===============================
+python-dotenv==1.0.0
+
+# ===============================
+# APIs / Web Requests
+# ===============================
+requests==2.31.0
+fastapi==0.103.0         # Optional (if you want faster APIs instead of Flask/Django)
+
+# ===============================
+# Optional Utils
+# ===============================
+notebook==7.0.3          # For Jupyter notebooks
+
