@@ -65,14 +65,14 @@ flowchart TD
    
 ## 📊 Key Features  
 
-- 🔼 **Data Input** → Upload mining process data (energy, water usage, emissions, ore type, production scale).  
-- 🤖 **AI-Powered Predictions** → Estimate carbon footprint, energy demand, and water usage using trained ML models.  
-- 📊 **Clustering & Benchmarking** → Group mines/processes into sustainability clusters (high, medium, low impact).  
-- 🔄 **Scenario Simulation** → Run *what-if* analysis (e.g., switching to renewable energy, new technology adoption).  
-- 📈 **Interactive Dashboard** → Visualize emissions, water usage, and energy consumption with dynamic charts.  
-- 📑 **Automated Reports** → Export sustainability insights as **PDF / CSV** reports for compliance & decision-making.  
-- 🌍 **Knowledge Integration** → Retrieve scientific insights via **RAG AI** from existing LCA and mining databases.  
-- 🌐 **Multilingual Support** → Accessible in multiple languages for wider adoption across regions.  
+-  **Data Input** → Upload mining process data (energy, water usage, emissions, ore type, production scale).  
+-  **AI-Powered Predictions** → Estimate carbon footprint, energy demand, and water usage using trained ML models.  
+-  **Clustering & Benchmarking** → Group mines/processes into sustainability clusters (high, medium, low impact).  
+-  **Scenario Simulation** → Run *what-if* analysis (e.g., switching to renewable energy, new technology adoption).  
+-  **Interactive Dashboard** → Visualize emissions, water usage, and energy consumption with dynamic charts.  
+-  **Automated Reports** → Export sustainability insights as **PDF / CSV** reports for compliance & decision-making.  
+-  **Knowledge Integration** → Retrieve scientific insights via **RAG AI** from existing LCA and mining databases.  
+-  **Multilingual Support** → Accessible in multiple languages for wider adoption across regions.  
 
 
 ## 🚀 Getting Started  
