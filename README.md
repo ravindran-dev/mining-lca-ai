@@ -31,18 +31,13 @@ flowchart TD
 
 ### 🔹 Frontend  
 - **React.js** → Interactive web dashboard  
-- **React Native (optional)** → Mobile application  
 - **TailwindCSS / Material UI** → Modern, responsive UI/UX  
 - **Chart.js / D3.js / Plotly** → Data visualization & analytics  
 
 ### 🔹 Backend  
-- **Flask** → Lightweight ML model serving & APIs  
-- **FastAPI** → (Alternative to Flask, for high-performance async APIs)  
-- **Django** → (Optional, if advanced user authentication & admin panel needed)  
-- **REST / GraphQL APIs** → Data exchange between frontend & backend  
+- **Flask** → Lightweight ML model serving & APIs   
 
 ### 🔹 Database  
-- **PostgreSQL** → Structured data (LCA datasets, user info, reports)  
 - **MongoDB** → Unstructured data (case studies, logs, documents)  
 
 ### 🔹 Machine Learning / AI  
@@ -52,8 +47,7 @@ flowchart TD
 - **LangChain + RAG (Retrieval Augmented Generation)** → AI-powered knowledge retrieval from scientific LCA docs  
 
 ### 🔹 Deployment & DevOps  
-- **Docker** → Containerization for consistent deployment  
-- **Kubernetes (optional)** → Orchestration for scaling multiple services  
+- **Docker** → Containerization for consistent deployment   
 - **AWS / GCP / Azure** → Cloud hosting (compute + storage)  
 - **CI/CD (GitHub Actions / Jenkins)** → Automated builds, tests, deployments  
 
@@ -61,7 +55,7 @@ flowchart TD
 - **Jupyter Notebooks** → Model training & experimentation  
 - **Pandas / NumPy** → Data preprocessing & feature engineering  
 - **Matplotlib / Seaborn** → Data exploration & analysis  
-- **Postman / Swagger** → API testing & documentation
+- **Postman** → API testing & documentation
    
 ## 📊 Key Features  
 
