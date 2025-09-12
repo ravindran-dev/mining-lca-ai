@@ -73,7 +73,7 @@ flowchart TD
 
 ### 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/<your-org>/mining-lca-ai.git
+git clone https://github.com/ravindran-dev/mining-lca-ai.git
 cd mining-lca-ai
 ```
 ### 2️⃣ Install dependencies
@@ -107,7 +107,7 @@ mining-lca-ai/
 │   └── src/assets/       # Images, logos
 │
 │── data/                 # Sample datasets
-│── notebooks/            # ML training notebooks
+│── ml_model/            # ML training notebooks
 │── docs/                 # Documentation + diagrams
 │── requirements.txt      # Python dependencies
 │── README.md             # Project README
@@ -119,7 +119,7 @@ mining-lca-ai/
 
 - 🔵 The system generates a sustainability report for compliance and investors.
 
-## 📊 KPIs & Evaluation
+## 📊 Evaluation
 - Prediction Accuracy → Emission, energy, water usage forecasts
 
 - Clustering Effectiveness → Silhouette score, domain expert validation
